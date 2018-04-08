@@ -1,0 +1,11 @@
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/bin/Debug/netcoreapp2.0/WebServer.deps.json
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.json
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.dev.json
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/bin/Debug/netcoreapp2.0/WebServer.dll
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/bin/Debug/netcoreapp2.0/WebServer.pdb
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/obj/Debug/netcoreapp2.0/WebServer.csprojResolveAssemblyReference.cache
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/obj/Debug/netcoreapp2.0/WebServer.csproj.CoreCompileInputs.cache
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfoInputs.cache
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfo.cs
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/obj/Debug/netcoreapp2.0/WebServer.dll
+/Users/moopoon/Desktop/WorkSpace/WebAPI/Module3/Create Controller for the Given Client/Start/WebServer/obj/Debug/netcoreapp2.0/WebServer.pdb
